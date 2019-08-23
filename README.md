@@ -1,4 +1,2 @@
 # Sign-Language-Translation
-Final Year Project 
-
-Hello World.
+Final Year Project
